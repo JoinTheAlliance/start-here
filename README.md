@@ -86,10 +86,6 @@ Suggested Tasks:
 - Identify and forge partnerships with other projects and companies.
 - Discover and create opportunities for funding.
 
-##### Investor
-
-Investors are important stakeholders who value our commitment to creating raw value and fostering open community development. They work with the business development team to exploit business opportunities and generate revenue within the ARG ecosystem.
-
 ## How to Get in Touch
 
 We primarily use Discord for communication. Join our Discord community here: https://discord.gg/Dq5ChqrV4F
