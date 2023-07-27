@@ -75,6 +75,18 @@ Suggested Tasks:
 - Create reliable and repeatable methods for monitoring progress.
 - Investigate new ideas and algorithms and implement them in the project.
 
+##### External Evaluator
+
+The External Evaluator role is an integral part of our ecosystem. While not directly involved in the development process, these individuals use our packages in their projects, providing valuable real-world feedback on their effectiveness, usability, and possible areas of improvement. Their perspective is crucial in ensuring our packages are useful and user-friendly outside the context of our own development.
+
+Suggested Tasks:
+
+- Use our packages in your own projects and provide feedback on their performance, usability, and functionality.
+- Identify and report bugs, unexpected behavior, or inconsistencies in our packages.
+- Suggest enhancements or new features based on your experience using the packages.
+- Write detailed reports on how you're using the packages and the problems they're solving for you.
+- Share your successes and challenges in using our packages, to help us understand where we're excelling and where we can improve.
+
 ### Community Roles
 
 ##### Agent
