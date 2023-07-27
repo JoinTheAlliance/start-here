@@ -88,8 +88,10 @@ Suggested Tasks:
 - Identify and forge partnerships with other projects and companies.
 - Discover and create opportunities for funding.
 
-## How to Get in Touch
+## How to Get Started
 
 We primarily use Discord for communication. Join our Discord community here: https://discord.gg/Dq5ChqrV4F
+
+Join the Discord, reach out to anyone who has a role or post your intent to contribute in the general chat. Someone will reach out to get you started.
 
 <img src="./resources/youcreatethefuture.jpg" width="100%" />
