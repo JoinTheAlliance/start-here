@@ -25,19 +25,19 @@ We maintain a series of packages which enable autonomous agents. Each of these p
 We are building several projects on top of those packages. These projects are lightweight-- anywhere that we end up repeating code across multiple types of agents, we try to consolidate this code into a package and generalize it.
 
 #### Major Packages (used frequently)
-https://github.com/AutonomousResearchGroup/agentmemory
-https://github.com/AutonomousResearchGroup/easycompletion
+ - https://github.com/AutonomousResearchGroup/agentmemory
+ - https://github.com/AutonomousResearchGroup/easycompletion
 
 #### Minor Packages (used infrequently or small)
-https://github.com/AutonomousResearchGroup/agentloop
-https://github.com/AutonomousResearchGroup/agentlogger
-https://github.com/AutonomousResearchGroup/agentaction
-https://github.com/AutonomousResearchGroup/agentbrowser
-https://github.com/AutonomousResearchGroup/easytask
+ - https://github.com/AutonomousResearchGroup/agentloop
+ - https://github.com/AutonomousResearchGroup/agentlogger
+ - https://github.com/AutonomousResearchGroup/agentaction
+ - https://github.com/AutonomousResearchGroup/agentbrowser
+ - https://github.com/AutonomousResearchGroup/easytask
 
 #### Projects
-https://github.com/AutonomousResearchGroup/autocoder
-https://github.com/AutonomousResearchGroup/tinyagi
+ - https://github.com/AutonomousResearchGroup/autocoder
+ - https://github.com/AutonomousResearchGroup/tinyagi
 
 ## Let's Build!
 
