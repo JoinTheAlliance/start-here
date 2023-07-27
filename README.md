@@ -18,11 +18,33 @@ The project was founded by <a href="https://github.com/lalalune">moon</a>, but t
 
 Our objective is to hasten agent research by providing foundational packages, tooling, and implementations of agent patterns for practical work. Our commitment to 100% open source ensures our work is accessible for everyone to learn from and build upon.
 
+## Our Current Work
+
+We maintain a series of packages which enable autonomous agents. Each of these packages is standalone and self-contained, although some packages depend on each other. The packages are designed to be modular and composable, allowing you to mix and match them to suit your needs.
+
+We are building several projects on top of those packages. These projects are lightweight-- anywhere that we end up repeating code across multiple types of agents, we try to consolidate this code into a package and generalize it.
+
+#### Major Packages (used frequently)
+https://github.com/AutonomousResearchGroup/agentmemory
+https://github.com/AutonomousResearchGroup/easycompletion
+
+#### Minor Packages (used infrequently or small)
+https://github.com/AutonomousResearchGroup/agentloop
+https://github.com/AutonomousResearchGroup/agentlogger
+https://github.com/AutonomousResearchGroup/agentaction
+https://github.com/AutonomousResearchGroup/agentbrowser
+https://github.com/AutonomousResearchGroup/easytask
+
+#### Projects
+https://github.com/AutonomousResearchGroup/autocoder
+https://github.com/AutonomousResearchGroup/tinyagi
+
 ## Let's Build!
 
 Wondering how we collaborate?
 
 If you have a proposal or idea, reach out to any role holder on Discord for a discussion. Alternatively, you can peruse our role suggestions to find something that fits your expertise and interests.
+
 
 ### Technical Roles
 
