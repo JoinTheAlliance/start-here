@@ -1,5 +1,7 @@
 # Start Your Journey Here
 
+<img src="./resources/header.jpg" width="100%" />
+
 If you have a fascination with building autonomous agents and a desire to collaborate with other like-minded individuals, you've come to the right place. We share your aspirations and enthusiasm!
 
 Working in a decentralized team can present many challenges. Perhaps you have your own code and ideas already, or you might be entirely new to this field and unsure of where to begin. We've strived to create a framework for organization that can accommodate a diverse range of people with varying backgrounds, offering flexibility and modularity in our approach.
@@ -90,6 +92,4 @@ Suggested Tasks:
 
 We primarily use Discord for communication. Join our Discord community here: https://discord.gg/Dq5ChqrV4F
 
-<img src="./resources/youcreatethefuture.jpg" width="100%">
-
-Let's build the future we want to live in.
+<img src="./resources/youcreatethefuture.jpg" width="100%" />
