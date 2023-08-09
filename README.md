@@ -2,74 +2,78 @@
 
 <img src="./resources/header.jpg" width="100%" />
 
-If you have a fascination with building autonomous agents and a desire to collaborate with other like-minded individuals, you've come to the right place. We share your aspirations and enthusiasm!
 
-Working in a decentralized team can present many challenges. Perhaps you have your own code and ideas already, or you might be entirely new to this field and unsure of where to begin. We've strived to create a framework for organization that can accommodate a diverse range of people with varying backgrounds, offering flexibility and modularity in our approach.
+- If you have a fascination with building autonomous agents and a desire to collaborate with other like-minded individuals, you've come to the right place. 
 
-However, to ensure meaningful and timely progress, it's essential we coordinate and work collaboratively. Trust and reliability are key elements of our community. Beyond simply being an open group, the organization fosters a precise vision and follows a meritocratic roadmap.
+- Whether you're a machine learning expert, or a beginner looking for a place to start experimenting, we provide a modular framework for collaboration to enable people of diverse backgrounds and skills to build together. we believe collaboration happens best when each individual member is empowered.
 
 ## Who Are We
 
-We're a group of individuals, committed to building autonomous agents, and backed by substantial experience in the prerequisite fields. However, due to the somewhat controversial nature of our work, we prefer to remain anonymous.
+- We're a group of builders, committed to the development autonomous agents, and backed by substantial experience in the prerequisite fields. however, due to the somewhat controversial nature of our work, we prefer to remain anonymous.
 
-The project was founded by <a href="https://github.com/lalalune">moon</a>, but the heart and soul of our organization are the contributors. The direction and pace of our project is determined by their invaluable input.
+- The project was founded by <a href="https://github.com/lalalune">moon</a>, but it's heart and soul is it's contributors. The direction and pace of our project is determined by their invaluable input.
 
 ## Our Mission
 
-Our objective is to hasten agent research by providing foundational packages, tooling, and implementations of agent patterns for practical work. Our commitment to 100% open source ensures our work is accessible for everyone to learn from and build upon.
+Our objective is to hasten agent research by providing foundational packages, tooling, and implementations of agent patterns for practical work. We believe in the power of FOSS <a href="https://> sures our work is accessible for everyone to learn from and build upon.
 
-## Our Current Work
+## Our current work
 
 We maintain a series of packages which enable autonomous agents. Each of these packages is standalone and self-contained, although some packages depend on each other. The packages are designed to be modular and composable, allowing you to mix and match them to suit your needs.
 
 We are building several projects on top of those packages. These projects are lightweight-- anywhere that we end up repeating code across multiple types of agents, we try to consolidate this code into a package and generalize it.
 
-#### Major Packages (used frequently)
- - https://github.com/AutonomousResearchGroup/agentmemory
- - https://github.com/AutonomousResearchGroup/easycompletion
+#### Major Packages (Used Frequently)
+ - https://github.com/autonomousresearchgroup/agentmemory
+ - https://github.com/autonomousresearchgroup/easycompletion
 
-#### Minor Packages (used infrequently or small)
- - https://github.com/AutonomousResearchGroup/agentloop
- - https://github.com/AutonomousResearchGroup/agentlogger
- - https://github.com/AutonomousResearchGroup/agentaction
- - https://github.com/AutonomousResearchGroup/agentbrowser
- - https://github.com/AutonomousResearchGroup/easytask
+#### Minor Packages (Used Infrequently or Small)
+ - https://github.com/autonomousresearchgroup/agentloop
+ - https://github.com/autonomousresearchgroup/agentlogger
+ - https://github.com/autonomousresearchgroup/agentaction
+ - https://github.com/autonomousresearchgroup/agentbrowser
+ - https://github.com/autonomousresearchgroup/easytask
 
 #### Projects
- - https://github.com/AutonomousResearchGroup/autocoder
- - https://github.com/AutonomousResearchGroup/tinyagi
+ - https://github.com/autonomousresearchgroup/autocoder
+ - https://github.com/autonomousresearchgroup/tinyagi
 
 ## Let's Build!
 
-Wondering how we collaborate?
+Wondering how we <a href="https://github.com/AutonomousResearchGroup/collaboration">collaborate</a>?
 
-If you have a proposal or idea, reach out to any role holder on Discord for a discussion. Alternatively, you can peruse our role suggestions to find something that fits your expertise and interests.
+Browse our list of proposed roles for ideas. Alternatively...
+
+Got an idea or proposal of your own? Reach out to one us on our official <a href="https://discord.gg/dq5chqrv4f">Discord</a> and let's discuss it.
 
 
 ### Technical Roles
 
 ##### Architect
-As a senior engineering role, an Architect shoulders the responsibility for building and maintaining the packages and projects, reviewing contributor submissions, and determining the project's direction. This role involves a high degree of responsibility and autonomy.
+As a senior engineering role, an architect shoulders the responsibility for building and maintaining the packages and projects, reviewing contributor submissions, and determining the project's direction. This role involves a high degree of responsibility and autonomy.
 
-Suggested tasks:
+Suggested Tasks:
+
 - Review the current architecture of packages and identify areas for improvement.
 - Construct systems and processes for onboarding and managing contributors.
 - Tackle fundamental and technically challenging problems within the project.
 
 ##### Contributor
-This is a role suitable for junior and intermediate engineers. As a Contributor, you'll help build and maintain packages and projects, and submit pull requests for review.
+This is a role suitable for junior and intermediate engineers. As a contributor, you'll help build and maintain packages and projects, and submit pull requests for review.
 
 Suggested Tasks:
+
 - Review code and tests to ensure all packages achieve 100% testing coverage.
 - Write and review existing documentation for typos or inaccuracies.
 - Craft tutorials and examples for using the packages.
 - Write unit tests for code.
-- Improve existing code, resolve issue tickets, and submit PRs for review.
+- Improve existing code, resolve issue tickets, and submit prs for review.
 
 ##### Researcher
 This role calls for an engineering or computer science background. Researchers are responsible for exploring and implementing new ideas and algorithms for the project, as well as constructing methods to verify results and track improvements or regressions.
 
 Suggested Tasks:
+
 - Prepare and implement benchmarking systems to measure progress.
 - Incorporate existing benchmarking tools and develop new ones as necessary.
 - Create reliable and repeatable methods for monitoring progress.
@@ -77,36 +81,39 @@ Suggested Tasks:
 
 ##### External Evaluator
 
-The External Evaluator role is an integral part of our ecosystem. While not directly involved in the development process, these individuals use our packages in their projects, providing valuable real-world feedback on their effectiveness, usability, and possible areas of improvement. Their perspective is crucial in ensuring our packages are useful and user-friendly outside the context of our own development.
+The external evaluator role is an integral part of our ecosystem. While not directly involved in the development process, these individuals use our packages in their projects, providing valuable real-world feedback on their effectiveness, usability, and possible areas of improvement.
 
-Suggested Tasks:
+The feedback of users integrating our packages outside of our own development environments is invaluable to ensuring that our packages are usable, reproducible, and maintained.
 
-- Use our packages in your own projects and provide feedback on their performance, usability, and functionality.
+Suggested Beginning Projects:
+
+- Use our packages in your own projects. Tell us about your experiences with their performance and usability.
 - Identify and report bugs, unexpected behavior, or inconsistencies in our packages.
 - Suggest enhancements or new features based on your experience using the packages.
-- Write detailed reports on how you're using the packages and the problems they're solving for you.
-- Share your successes and challenges in using our packages, to help us understand where we're excelling and where we can improve.
+- Let us know how you are using our tools, the kinds of projects you plan to use them for, or how and how you've integrated them into your workflow.
+- Suggest a feature
 
 ### Community Roles
 
 ##### Agent
 
-Agents are our ambassadors. They evangelize the project, recruit new members, spread optimistic futurism propaganda, and help cultivate a community of individuals interested in building autonomous agents.
+Agents are our ambassadors. As wizards and witches of hyperstitional spellcasting, heads of propaganda, and chief vibrational officers, you bring attention, techno-optimism, and good-old fashioned promotion [^1]
 
-Suggested Tasks:
-- Generate memes and propaganda to raise awareness about the project.
-- Write articles and blog posts about the project.
-- Maintain an active presence on social media promoting the project.
-- Create videos and podcasts.
-- Produce inspiring art and stories that ignite a passion for building autonomous agents.
+[^1]: Please do not spam or use our agents for this. Shill tastefully!
+
+Guidelines to be effective:
+
+- Be a content creator! If you think our project is cool, chances are someone else will too. Make a tutorial, write a review, or become king of all "threadbois" from the social alpha of being one of the first to include us in a "Mind-Blowing AI Tools" Twitter thread
+- Be social with media - Let people know about us on Twitter, Discord, Github, and wherever else nerds are found.
+- Make a Youtube tutorial. Stream an experiment on Twitch. Share a mind-blowing demo on Tik Tok. If you're a content creator, or you want to dip your toes in becoming one, take advantage of being an early adopter.
 
 ##### Community Organizer
 
-Community Organizers are the glue that holds our community together. They help onboard new members, moderate the Discord channel, and assist in organizing events and meetups.
+Community organizers are the glue that holds our community together. they help onboard new members, moderate the discord channel, and assist in organizing events and meetups.
 
-Suggested Tasks:
-- Assist new members in getting started with the project.
-- Organize events and meetups to foster collaborative work on the project.
+Suggested tasks:
+- Help new community members with ther projects
+- Organize Hackathons to engage hackers and builders in the space
 - Keep the Discord environment friendly and welcoming for everyone.
 - Help organize the community and keep track of who is working on what.
 
@@ -114,17 +121,17 @@ Suggested Tasks:
 
 ##### Business Development
 
-The Business Development role is pivotal in identifying and creating opportunities for the project to generate revenue. They work closely with the architects to understand the technical roadmap and identify potential areas of business.
+The business development role is pivotal in identifying and creating opportunities for the project to generate revenue. they work closely with the architects to understand the technical roadmap and identify potential areas of business.
 
-Suggested Tasks:
-- Identify potential revenue streams and create a business plan.
-- Develop a roadmap for the business side of the project.
-- Identify and forge partnerships with other projects and companies.
-- Discover and create opportunities for funding.
+suggested tasks:
+- identify potential revenue streams and create a business plan.
+- develop a roadmap for the business side of the project.
+- identify and forge partnerships with other projects and companies.
+- discover and create opportunities for funding.
 
 ## How to Get Started
 
-We primarily use Discord for communication. Join our Discord community here: https://discord.gg/Dq5ChqrV4F
+We primarily use discord for communication. Join our Discord community here: https://discord.gg/dq5chqrv4f
 
 Join the Discord, reach out to anyone who has a role or post your intent to contribute in the general chat. Someone will reach out to get you started.
 
