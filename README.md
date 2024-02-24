@@ -2,41 +2,50 @@
 
 <img src="./resources/header.jpg" width="100%" />
 
-The Alliance is a metaorganization aiming to promote and connect individuals and companies working toward making the future better than the present for everyone. We maintain open source technology, support mission-aligned projects and build a new culture together.
+The Alliance is a metaorganization which promotes and connects individuals and companies working toward making the future better than the present for everyone. We maintain open source technology, support mission-aligned projects and build a new culture together.
 
 If you have your own company, community or philosophical movement, you are welcome to represent that in The Alliance. The only requirement is that whatever your are building and promoting be aligned with our mission of making human lives better and not worse.
+
+## Our Mission
+
+Our mission is to make direct ontributions to humanity which have widespread positive impact. We harness technology to create products, apps, and research that bring people together, enhance quality of life, and ensure a brighter future for everyone. Positive contributions include applications like AI agents that foster human connections. In contrast, we steer clear of initiatives that lead to isolation or distraction.
 
 ## Our Current Work
 
 We maintain a series of packages which enable new kinds of products to be built. Most of this focus is on natural language interfaces, LLM pipelines and AI agents.
 
-### Typescript
+Key projects include:
  - https://github.com/JoinTheAlliance/bgent
-
-### Python
-
-#### Major Packages (used frequently)
  - https://github.com/JoinTheAlliance/agentmemory
  - https://github.com/JoinTheAlliance/easycompletion
 
-#### Minor Packages (used infrequently or small)
- - https://github.com/JoinTheAlliance/agentloop
- - https://github.com/JoinTheAlliance/agentlogger
- - https://github.com/JoinTheAlliance/agentaction
- - https://github.com/JoinTheAlliance/agentbrowser
- - https://github.com/JoinTheAlliance/easytask
+## Getting Started
 
-#### Projects
- - https://github.com/JoinTheAlliance/autocoder
- - https://github.com/JoinTheAlliance/tinyagi
+There is a lot of work to be done, and many places where you can jump right in.
 
-## Let's Build!
+Start by joining our [Discord community](https://discord.gg/jointhealliance). Share your project ideas or simply introduce yourself. 
 
-Wondering how we collaborate?
+Here are some places you can get started:
 
-If you have a proposal or idea, reach out to any role holder on Discord for a discussion. Alternatively, you can peruse our role suggestions to find something that fits your expertise and interests.
+### Technical Contributions
+- Write additional unit tests for bgent
+- Review bgent documentation and fix documentation inaccuracies
+- Develop examples demonstrating package usage
 
-### Technical Roles
+### Creative Contributions
+- Design a new sticker, meme, or logo for The Alliance
+- Create fun and engaging social media content relaed to The Alliance
+
+### Community Contributions
+- Welcome new members in our Discord
+- Improve our "getting started" and onboarding docs
+- Post about The Alliance on forums, Reddit, Twitter and other commmunities to help us grow
+
+Feel free to suggest your own ideas, as well.
+
+### Roles
+
+Alliance members may accept roles based on their area of contribution and experience. New roles will be created as needed.
 
 ##### Architect
 As a senior engineering role, an Architect shoulders the responsibility for building and maintaining the packages and projects, reviewing contributor submissions, and determining the project's direction. This role involves a high degree of responsibility and autonomy.
@@ -65,19 +74,15 @@ Suggested Tasks:
 - Create reliable and repeatable methods for monitoring progress.
 - Investigate new ideas and algorithms and implement them in the project.
 
-##### External Evaluator
+##### Community Organizer
 
-The External Evaluator role is an integral part of our ecosystem. While not directly involved in the development process, these individuals use our packages in their projects, providing valuable real-world feedback on their effectiveness, usability, and possible areas of improvement. Their perspective is crucial in ensuring our packages are useful and user-friendly outside the context of our own development.
+Community Organizers are the glue that holds our community together. They help onboard new members, moderate the Discord channel, and assist in organizing events and meetups.
 
 Suggested Tasks:
-
-- Use our packages in your own projects and provide feedback on their performance, usability, and functionality.
-- Identify and report bugs, unexpected behavior, or inconsistencies in our packages.
-- Suggest enhancements or new features based on your experience using the packages.
-- Write detailed reports on how you're using the packages and the problems they're solving for you.
-- Share your successes and challenges in using our packages, to help us understand where we're excelling and where we can improve.
-
-### Community Roles
+- Assist new members in getting started with the project.
+- Organize events and meetups to foster collaborative work on the project.
+- Keep the Discord environment friendly and welcoming for everyone.
+- Help organize the community and keep track of who is working on what.
 
 ##### Ambassador
 
@@ -90,18 +95,6 @@ Suggested Tasks:
 - Create videos and podcasts.
 - Produce inspiring art and stories that ignite a passion for working with a group like ours.
 
-##### Community Organizer
-
-Community Organizers are the glue that holds our community together. They help onboard new members, moderate the Discord channel, and assist in organizing events and meetups.
-
-Suggested Tasks:
-- Assist new members in getting started with the project.
-- Organize events and meetups to foster collaborative work on the project.
-- Keep the Discord environment friendly and welcoming for everyone.
-- Help organize the community and keep track of who is working on what.
-
-### Business Roles
-
 ##### Business Development
 
 The Business Development role is pivotal in identifying and creating opportunities to generate revenue. They work closely with the architects to understand the technical roadmap and identify potential areas of business. Each project is bespoke and composed of available members.
@@ -112,10 +105,26 @@ Suggested Tasks:
 - Identify and forge partnerships with other projects and companies.
 - Discover and create opportunities for funding.
 
-## How to Get Started
+## Credit and Compensation
+Contributions are recognized through a points system, reflecting around 15 minutes of skilled labor per point. While points currently hold no material value, they will factor into future governance, ownership, and access to resources.
 
-We primarily use Discord for communication. Join our Discord community here: https://discord.gg/jointhealliance
+Certainly! Here's an FAQ section that addresses common questions new members might have about The Alliance:
 
-Join the Discord, reach out to anyone who has a role or post your intent to contribute in the general chat. Someone will reach out to get you started.
+## Frequently Asked Questions (FAQ)
+
+### Do I need to be an expert to contribute?
+No, contributors of all skill levels are welcome! Whether you're a seasoned developer or new to open-source, there's a place for you in The Alliance. We have tasks ranging from simple documentation fixes to more complex architectural challenges.
+
+### Are there paid projects I can work on?
+Yes, The Alliance occasionally takes on paid projects. All earnings from these projects are distributed among the members who contributed to the project, with no percentage retained by The Alliance.
+
+### Where can I find The Alliance's projects?
+All of our projects are hosted on our [GitHub page](https://github.com/JoinTheAlliance). Feel free to explore, star your favorites, and start contributing!
+
+### How can my organization partner with The Alliance?
+If your organization's mission aligns with ours and you're interested in partnering, please submit a pull request with your organization's details to our GitHub repository. We're always looking for like-minded entities to collaborate with!
+
+### Who can I contact for more information?
+For more detailed inquiries or specific questions, reach out to us on Discord. Our community organizers and other members are more than happy to assist you. If you have a specific or sensitive matter, reach out to Moon: `new.moon` on Discord, or moon@cojourney.app
 
 <img src="./resources/youcreatethefuture.jpg" width="100%" />
